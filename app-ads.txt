@@ -1,2 +1,2 @@
 google.com, pub-8596150402736791, DIRECT, f08c47fec0942fa0
-smaato.com, 1100051061, Direct, 07bcf65f187117b4
+smaato.com, 1100051061, DIRECT, 07bcf65f187117b4
